@@ -4,13 +4,27 @@
   
   
   <entry>
-    <title>Hello World</title>
-    <link href="/2026/04/22/first-post/"/>
-    <url>/2026/04/22/first-post/</url>
+    <title>[HYPE-0x01] ONWARDS TO GREATNESS!</title>
+    <link href="/2026/04/22/ONWARDS_TO_GREATNESS/"/>
+    <url>/2026/04/22/ONWARDS_TO_GREATNESS/</url>
     
-    <content type="html"><![CDATA[]]></content>
+    <content type="html"><![CDATA[<h2 id="0x00-Helloooo-hackers"><a href="#0x00-Helloooo-hackers" class="headerlink" title="0x00. Helloooo hackers!"></a><strong>0x00. Helloooo hackers!</strong></h2><p>(Yan’s voice is echoing in my head. Oh you want it too?)<br><audio controls><br>  <source src="/music/hello_hackers.mp3" type="audio/mpeg"><br>Your browser does not support the audio element.<br></audio></p><p>As you’ve probably guessed, I’m a big pwn.college fan. I just love what they do, being all open source and stuff. They also stream the classes at ASU on <a href="https://www.twitch.tv/pwncollege">twitch!</a> (well, at least they used to… but the vods can be found on <a href="https://www.youtube.com/pwncollege">youtube</a>) Watching <a href="https://github.com/robwaz">Rob</a> debug binaries with gdb at 3 am in my timezone never failed to amaze me. Peak. All the live classes and the lecture vids were peak. However, you see, I’m still a white belt :c </p><p>My excuse? I’m lazy, unmotivated yada yada yada… </p><p>Anyway, the reason I’m creating this website is… totaly different. With the rise of LLM written blogs, websites and everything, I didn’t just want to sit back and watch LLMs take over the internet. Because I love reading human written blogs. I love reading the excitement, fun and pain the author has gone through (and ofc the memes!!), looking at you <a href="https://blog.kylebot.net/2022/10/16/CVE-2022-1786/">A Journey To The Dawn</a>, and I’m afraid we are slowly losing the fun of writing&#x2F;reading&#x2F;creating stuff as nowadays pretty much everything is done via prompts :(</p><p>So I wanted to stand against them by adding +1 to the human side, and I hope one day you will too (˶ᵔ ᵕ ᵔ˶). If you’re a newbie starting into this field, just ignore&#x2F;block&#x2F;dodge the people who tells you to use AI, for learning or anything really, instead use your pretty brain please :p  </p><p>Btw, I definitely suggest you to join pwn.college’s <a href="https://discord.gg/pwncollege">discord</a>. Why you might ask? because of the memes! it’s always the memes and the legendary Rob info dumps x)</p><center><video width="640" height="480" controls>  <source src="/music/yan.mp4" type="video/mp4">Your browser does not support the video tag.</video> </center><p><center> my fav in the #memes channel (made by @__cyx__) </center></p><p>Well, that’s it for now. One day I’ll get my blue belt and pose just like <a href="https://yancomm.net/">Yan</a> but that day is neither today nor tomorrow, for a reason or another. In the meantime I’ll try to be the <em>strongest</em> white belt :) Alright, time’s up, that’s all from me. <em>For now</em>.</p><p>Shall we then? </p><h2 id="0x01-Goodbyeee-hackers"><a href="#0x01-Goodbyeee-hackers" class="headerlink" title="0x01. Goodbyeee hackers!"></a><strong>0x01. Goodbyeee hackers!</strong></h2><audio controls>  <source src="/music/goodbye_hackers.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio><p><small> both the audio are from <a href="https://www.youtube.com/watch?v=lUxm-NiaR0o">this vid</a>and no, it didn't take so much time finding the "perfect" one</small></p>]]></content>
     
     
+    <categories>
+      
+      <category>Hello World</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>hype</tag>
+      
+      <tag>pwn.college</tag>
+      
+    </tags>
     
   </entry>
   
